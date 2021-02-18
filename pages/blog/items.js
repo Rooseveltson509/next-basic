@@ -9,7 +9,13 @@ const Items = () => {
             <title>liste des items</title>
         </Head>
         <Layaout>
-            <h1>Items</h1>
+            <h2>Liste des catégories</h2>
+            <ul>
+                <li>Culture</li>
+                <li>Geographie</li>
+                <li>Histoir</li>
+                <li>Sociale</li>
+            </ul>
         </Layaout> 
     </>
      );
